@@ -1,0 +1,8 @@
+Character#say_that_thing_you_say returns a string with the character's name and catchphrase
+Actor#shows returns the shows associated with the actor through their characters
+Actor#full_name returns the actor's full name
+Actor#list_roles returns a list of roles for the actor using the character name and show name
+Show#network returns the network that the show belongs to
+Show#actors_list returns a list of the full names of each actor associated with the show
+Network#shows returns the shows associated with the network
+Network#sorry apologizes for passing on John Mulaney's Pilot
